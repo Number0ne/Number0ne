@@ -7,7 +7,7 @@
 
 * 🌱 A curious guy looking for a new challenge. As a Back-End Developer I focus on C#-based frameworks mainly .NET and Avalonia. Additionally, I have prior experience with React (Typescript), Python, Java, and Kotlin.
 
-Linux for Life.
+* 🌱 Linux for Life.
 
 ## Tech Stack
 
