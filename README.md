@@ -1,16 +1,35 @@
-## Hi there 👋
+# Ndifreke James Okpo
 
-<!--
-**Number0ne/Number0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### C# Developer - .NET and Avalonia
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* 🌱 A curious guy looking for a new challenge. As a Back-End Developer I focus on C#-based frameworks mainly .NET and Avalonia. Additionally, I have prior experience with React (Typescript), Python, Java, and Kotlin.
+
+Linux for Life.
+
+## Tech Stack
+
+### Languages and Frameworks
+
+* **Primary:** C#, .NET, Avalonia, Vanilla HTML and CSS (Not technically languages)
+* **Secondary:** Python, Java, TypeScript, React
+
+### Badges
+
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Avalonia](https://img.shields.io/badge/AvaloniaUI-302E3B?style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndifrekejamesokpo/)
+
+## My GitLab Account (For my personal projects)
+
+<a href="https://gitlab.com/number0ne"><img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://gitlab.com/number0ne" /></a>
+
+## GitHub Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Number0ne&show_icons=true&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Number0ne&layout=compact&theme=vision-friendly-dark)
